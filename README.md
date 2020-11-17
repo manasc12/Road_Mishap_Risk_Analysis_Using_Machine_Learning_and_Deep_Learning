@@ -1,5 +1,11 @@
 # Road Mishap Risk Analysis
-Accident Severity Analysis using Police Traffic Records of UK Government.
+Here I have done the **Accident Severity** Prediction using Police Traffic Records of UK Government under various circumstances.
+
+**Accident Severity Level** ------- **Meaning **
+------------------------------------------------------
+        '1'   ------------------ Fatal
+        '2'   ------------------ Moderate
+        '3'   ------------------ Slight
 
 Implemented 2 methods here for comparison:
 1. Randomforest classifier with Hyper-parameter Tuning
