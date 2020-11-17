@@ -6,6 +6,7 @@ Implemented 2 methods here for comparison:
 2. Convolutional Neural Network
 
 Then I have also demonstrated how to make a Machine Learning Data Pipeline:
+![pipeline.png](pipeline.png)
 - To streamline a lot of the routine processes.
 - To encapsulate little pieces of logic into one function call. 
 - which makes it easier to actually do modeling instead just writing a bunch of code. 
