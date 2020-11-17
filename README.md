@@ -3,9 +3,9 @@ Here I have done the **Accident Severity** Prediction using Police Traffic Recor
 
 **Accident Severity Level** ------- Meaning
 ------------------------------------------------------
-        '1'   -------------------------- Fatal
-        '2'   -------------------------- Moderate
-        '3'   -------------------------- Slight
+                '1'   -------------------------- Fatal
+                '2'   -------------------------- Moderate
+                '3'   -------------------------- Slight
 
 Implemented 2 methods here for comparison:
 1. Randomforest classifier with Hyper-parameter Tuning
