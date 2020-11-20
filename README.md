@@ -1,7 +1,7 @@
 # Road Mishap Risk Analysis
 Here I have implemented the **Accident Severity Analysis** using UK Police Traffic Records.
 Which is collected under various circumstances and might be ideal for building a Data mining model which can predict **accident severity** zones and can be proven beneficial in taking preoperative safety measures at Highly accident severity zones.
-- [Link to the UK Police Traffic Records for Road Accidents](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
+- [Link to the UK Police Traffic Records for Road Accidents](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
 
 **Accident Severity Level** ------- Meaning
 ------------------------------------------------------
